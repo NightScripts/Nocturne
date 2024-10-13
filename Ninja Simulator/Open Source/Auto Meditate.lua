@@ -14,7 +14,7 @@ local ReplicatedStorage = game:GetService("ReplicatedStorage")
 --// Vars
 
 local Player = Players.LocalPlayer
-local PlayerCharacter = Player.Characted or Player.CharacterAdded:Wait()
+local PlayerCharacter = Player.Character or Player.CharacterAdded:Wait()
 
 --// Toggle for the main stuff
 
