@@ -1,9 +1,9 @@
 --// Nocturne.Lua (Nightly subscript hub)
 --// Supposed to be for Alternate but got bored and discontinued the project.
 --// For Blade Ball go skid, skid baby
---// This probably doesnt work anymore, but maybe you can modify it :P
+--// This probably doesnt work anymore, but maybe you can modify it :P           
 --// I ain't sharing the real anti curve shi, but here's the first version of what we made.
-
+--// fake shi lmafosoaoaoaoaoaoaoa
 local Nocturne = {}
 
 local Debug = true
